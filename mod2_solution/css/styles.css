@@ -9,15 +9,10 @@ h1 {
 
 .row {
 	width: 100%;
-	display: flex;
-  	align-items: stretch;
- 	flex-wrap: wrap;
 }
 
 .row div{
 	float: left;
-	display: flex;
-	align-items: stretch;
 }
 
 @media (min-width: 992px) {
